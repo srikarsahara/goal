@@ -27,16 +27,16 @@
   d. push with new branch   
   e. compare and pull    
 # **Image**
-![cool]()
+![Emoji](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.howtogeek.com%2Fwp-content%2Fuploads%2F2020%2F05%2Femoji_hero_1.png&imgrefurl=https%3A%2F%2Fwww.howtogeek.com%2F684025%2Fhow-to-type-emoji-on-your-mac-with-a-keyboard-shortcut%2F&tbnid=JpQbym6kZBk24M&vet=12ahUKEwic49julfPuAhWAxXMBHbx5D8gQMyhgegUIARC9AQ..i&docid=9kCymNBamDINsM&w=650&h=300&q=emoji&ved=2ahUKEwic49julfPuAhWAxXMBHbx5D8gQMyhgegUIARC9AQ)
 
 # **Link**
 [github](https://github.com/)
 
-# **Table**   
-|Name|Branch|College|
-|----|------|-------|
-|Srikar|CSE|VRSEC|
-|Avinash|CSE|VRSEC|
+# **Table**      
+|Name|Branch|College|   
+|----|------|-------|   
+|Srikar|CSE|VRSEC|   
+|Avinash|CSE|VRSEC|   
 
 # **code**
 ```python
