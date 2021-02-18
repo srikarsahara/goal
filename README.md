@@ -33,10 +33,10 @@
 [github](https://github.com/)
 
 # **Table**   
-|Name|Branch|College|
-|----|------|-------|
-|Srikar|CSE|VRSEC|
-|Avinash|CSE|VRSEC|
+Name|Branch|College
+----|------|-------
+Srikar|CSE|VRSEC
+Avinash|CSE|VRSEC
 
 # **code**
 ```python
