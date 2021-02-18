@@ -27,16 +27,16 @@
   d. push with new branch   
   e. compare and pull    
 # **Image**
-![cool](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZnB6NrXxyr-R2i0cvP90GDXgEpDnTkJShZA&usqp=CAU)
+![cool]()
 
 # **Link**
 [github](https://github.com/)
 
 # **Table**   
-Name|Branch|College
-----|------|-------
-Srikar|CSE|VRSEC
-Avinash|CSE|VRSEC
+|Name|Branch|College|
+|----|------|-------|
+|Srikar|CSE|VRSEC|
+|Avinash|CSE|VRSEC|
 
 # **code**
 ```python
