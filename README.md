@@ -32,7 +32,7 @@
 # **Link**
 [github](https://github.com/)
 
-# **Table**      
+# **Table**   
 |Name|Branch|College|   
 |----|------|-------|   
 |Srikar|CSE|VRSEC|   
